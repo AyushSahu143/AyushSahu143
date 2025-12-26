@@ -16,9 +16,9 @@
 
 ## 🧠 Currently Leveling Up
 - **Full Stack Development**  
-  - ✔ HTML  
-  - ✔ CSS  
-  - ✔ JavaScript (Core + DOM + Projects)  
+  - ✔ Tailwind css  
+  - ✔ React (Conditional rendering + State management + Props Drilling & Routing)
+  - ✔ **Node.js + Express.js** 
 - **DSA Basics in Java**  
 - **JavaScript Projects & API Work**  
 - **UI/UX Sense + Clean Architecture**
