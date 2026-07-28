@@ -1,4 +1,4 @@
-# ⚡ Ayush Sahu
+# Ayush Sahu
 
 ### Full-Stack Developer · MERN · GenAI Engineer
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 **Frontend**
 `React` · `React Router` · `Tailwind CSS` · `shadcn/ui`
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧩 DSA & CS Fundamentals
+## DSA & CS Fundamentals
 
 - 150+ problems solved (Java) — arrays, strings, binary search, linked lists, stacks/queues, hashmaps, trees
 - Strong on OOP in Java; basics in C++ and Python
@@ -39,13 +39,13 @@
 
 ---
 
-## 🎯 What I'm Aiming For
+## What I'm Aiming For
 
 Product-based SDE roles (Razorpay / PhonePe / BrowserStack / Zoho tier) — looking to bring both solid fundamentals and the ability to build and explain a complete system, not just isolated features.
 
 ---
 
-## 📬 Connect
+## Connect
 
 - **LinkedIn:** [ayush-sahu-76550a330](https://www.linkedin.com/in/ayush-sahu-76550a330)
 - **Email:** sahuayush134@gmail.com
@@ -53,6 +53,6 @@ Product-based SDE roles (Razorpay / PhonePe / BrowserStack / Zoho tier) — look
 
 ---
 
-## 🗂️ What You'll Find Here
+## What You'll Find Here
 
 Real, working full-stack projects — built, broken, debugged, and rebuilt until they're actually correct. Constant iteration over polish-for-show.
